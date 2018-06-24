@@ -1,7 +1,7 @@
 <html>
 <head>
     <title>Fresh Eats</title>
-    <link href="css/mystyle.css" rel="stylesheet" type="text/css">
+    <link href="css/index.css" rel="stylesheet" type="text/css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link href="https://fonts.googleapis.com/css?family=Aladin|Montserrat|Oleo+Script+Swash+Caps|Pacifico|Prosto+One|Share|Source+Code+Pro:300" rel="stylesheet">
 </head> 
